@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <p><a href="index">Home</a></p>
+  </head>
+  <body>
+    <h1>Welcome to the page of James</h1>
+    <hr />
+    <h3>Interests</h3>
+    <ul>
+    <li>Mathematics</li>
+    <li>Music
+    <ul>
+    <li>Piano</li>
+    <li>Ukulele</li>
+    <li>Voice</li>
+    <li><a href="https://www.youtube.com/watch?v=PxLB70G-tRY">Otamatone</a></li>
+    </ul>
+    </li>
+    <li>Brain Teasers</li>
+    <li>Machine Learning</li>
+    </ul>
+  </body>
+</html>
